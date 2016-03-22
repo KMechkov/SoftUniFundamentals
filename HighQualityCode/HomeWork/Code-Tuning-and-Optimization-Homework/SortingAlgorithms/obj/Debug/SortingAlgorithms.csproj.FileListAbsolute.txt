@@ -1,0 +1,8 @@
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\Code-Tuning-and-Optimization-Homework\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\Code-Tuning-and-Optimization-Homework\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\Code-Tuning-and-Optimization-Homework\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\Code-Tuning-and-Optimization-Homework\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+G:\SoftUni\HighQualityCode_December\10.Code Tuning and Optimization\HomeWork\Code-Tuning-and-Optimization-Homework\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb
+C:\Users\m3choka\Downloads\HomeWork\Code-Tuning-and-Optimization-Homework\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+C:\Users\m3choka\Downloads\HomeWork\Code-Tuning-and-Optimization-Homework\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+C:\Users\m3choka\Downloads\HomeWork\Code-Tuning-and-Optimization-Homework\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb

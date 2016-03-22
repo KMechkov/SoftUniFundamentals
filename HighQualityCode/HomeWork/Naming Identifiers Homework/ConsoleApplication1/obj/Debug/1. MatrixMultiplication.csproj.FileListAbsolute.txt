@@ -1,0 +1,12 @@
+C:\Users\blade\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\blade\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\blade\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\blade\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\blade\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\blade\Downloads\02. Naming-Identifiers-Homework\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\1. MatrixMultiplication.csprojResolveAssemblyReference.cache
+C:\Users\m3choka\Downloads\Naming-Identifiers-Homework(1)\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\m3choka\Downloads\Naming-Identifiers-Homework(1)\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\m3choka\Downloads\Naming-Identifiers-Homework(1)\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\m3choka\Downloads\HomeWork\Naming Identifiers Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\m3choka\Downloads\HomeWork\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\m3choka\Downloads\HomeWork\Naming Identifiers Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

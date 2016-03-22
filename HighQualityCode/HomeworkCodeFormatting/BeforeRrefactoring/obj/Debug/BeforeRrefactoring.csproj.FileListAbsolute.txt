@@ -1,0 +1,2 @@
+C:\Users\m3choka\documents\visual studio 2013\Projects\HomeworkCodeFormatting\BeforeRrefactoring\bin\Debug\BeforeRrefactoring.exe.config
+C:\Users\m3choka\documents\visual studio 2013\Projects\HomeworkCodeFormatting\BeforeRrefactoring\obj\Debug\BeforeRrefactoring.csprojResolveAssemblyReference.cache

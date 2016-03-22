@@ -1,0 +1,2 @@
+c:\users\m3choka\documents\visual studio 2013\Projects\HomeworkCodeFormatting\Event\bin\Debug\Event.exe.config
+C:\Users\m3choka\documents\visual studio 2013\Projects\HomeworkCodeFormatting\Event\obj\Debug\Event.csprojResolveAssemblyReference.cache
