@@ -1,0 +1,10 @@
+c:\users\m3choka\documents\visual studio 2013\Projects\StaticMembersAndNamespacesHomework\03.Path\bin\Debug\03.Path.exe.config
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\03.Path\bin\Debug\03.Path.exe
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\03.Path\bin\Debug\03.Path.pdb
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\03.Path\bin\Debug\02.DistanceCalculator.exe
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\03.Path\bin\Debug\Main.exe
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\03.Path\bin\Debug\02.DistanceCalculator.pdb
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\03.Path\bin\Debug\Main.pdb
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\03.Path\obj\Debug\03.Path.csprojResolveAssemblyReference.cache
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\03.Path\obj\Debug\03.Path.exe
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\03.Path\obj\Debug\03.Path.pdb

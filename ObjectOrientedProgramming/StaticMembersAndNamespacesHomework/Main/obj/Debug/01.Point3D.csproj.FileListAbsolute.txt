@@ -1,0 +1,6 @@
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\Main\bin\Debug\Main.exe.config
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\Main\bin\Debug\Main.exe
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\Main\bin\Debug\Main.pdb
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\Main\obj\Debug\01.Point3D.csprojResolveAssemblyReference.cache
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\Main\obj\Debug\Main.exe
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\Main\obj\Debug\Main.pdb

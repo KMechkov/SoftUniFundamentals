@@ -1,0 +1,6 @@
+C:\Users\m3choka\documents\visual studio 2013\Projects\InheritanceAndAbstractHomework\01HumanStudenAndWorker\bin\Debug\01HumanStudenAndWorker.exe.config
+C:\Users\m3choka\documents\visual studio 2013\Projects\InheritanceAndAbstractHomework\01HumanStudenAndWorker\obj\Debug\01HumanStudenAndWorker.exe
+C:\Users\m3choka\documents\visual studio 2013\Projects\InheritanceAndAbstractHomework\01HumanStudenAndWorker\obj\Debug\01HumanStudenAndWorker.pdb
+C:\Users\m3choka\documents\visual studio 2013\Projects\InheritanceAndAbstractHomework\01HumanStudenAndWorker\bin\Debug\01HumanStudenAndWorker.exe
+C:\Users\m3choka\documents\visual studio 2013\Projects\InheritanceAndAbstractHomework\01HumanStudenAndWorker\bin\Debug\01HumanStudenAndWorker.pdb
+C:\Users\m3choka\documents\visual studio 2013\Projects\InheritanceAndAbstractHomework\01HumanStudenAndWorker\obj\Debug\HumanStudenAndWorker.csprojResolveAssemblyReference.cache

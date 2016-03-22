@@ -1,0 +1,8 @@
+c:\users\m3choka\documents\visual studio 2013\Projects\StaticMembersAndNamespacesHomework\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe.config
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.exe
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\02.DistanceCalculator\bin\Debug\02.DistanceCalculator.pdb
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\02.DistanceCalculator\bin\Debug\Main.exe
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\02.DistanceCalculator\bin\Debug\Main.pdb
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.exe
+C:\Users\m3choka\Documents\Visual Studio 2013\Projects\StaticMembersAndNamespacesHomework\02.DistanceCalculator\obj\Debug\02.DistanceCalculator.pdb

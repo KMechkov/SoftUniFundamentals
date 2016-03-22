@@ -1,0 +1,6 @@
+c:\users\m3choka\documents\visual studio 2013\Projects\DefinningClassesHomeWork\Problem01\bin\Debug\Problem01.exe.config
+c:\users\m3choka\documents\visual studio 2013\Projects\DefinningClassesHomeWork\Problem01\bin\Debug\Problem01.exe
+c:\users\m3choka\documents\visual studio 2013\Projects\DefinningClassesHomeWork\Problem01\bin\Debug\Problem01.pdb
+c:\users\m3choka\documents\visual studio 2013\Projects\DefinningClassesHomeWork\Problem01\obj\Debug\Problem01.csprojResolveAssemblyReference.cache
+c:\users\m3choka\documents\visual studio 2013\Projects\DefinningClassesHomeWork\Problem01\obj\Debug\Problem01.exe
+c:\users\m3choka\documents\visual studio 2013\Projects\DefinningClassesHomeWork\Problem01\obj\Debug\Problem01.pdb
